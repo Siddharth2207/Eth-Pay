@@ -1,7 +1,7 @@
 # About ETH Pay 
 
-Retail Venndors and Small Business(In India and US) cannot hold crypto-currencies on their balances because for volatality of crypto-currencies and imposing laws.
-ETH-Pay solves this problem by instantly converting crypto payments to fiat currency with help of chainlink powered smart contract . 
+Retail Vendors and Small Business(In India and US) cannot hold crypto-currencies on their balance sheet because for volatality of crypto-currencies and imposing laws.
+ETH-Pay solves this problem by instantly converting crypto payments to fiat currency with help of chainlink powered smart contract without any KYC requirement and any kind of DEX being involved . 
 The current version can make payments to any person with an UPI(Unified Payment Interface)Id . Futher versions will include multiple payment methods . 
 
 # Note : The project is still work in progress .
