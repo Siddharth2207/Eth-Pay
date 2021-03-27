@@ -1,0 +1,22 @@
+.wrapper {
+  min-height: 100vh;
+  background-position: 0px -30vh;
+  background-repeat: no-repeat;
+  background: rgb(33, 36, 41);
+  background-image: radial-gradient(
+    50% 50% at 50% 50%,
+    rgba(33, 114, 229, 0.1) 0%,
+    rgba(33, 36, 41, 0) 100%
+  );
+  padding-top: 5em;
+}
+
+.class-container {
+    margin-top: 5em;
+    border-color: 10px solid red;
+    
+}
+.img-class{
+    margin-left: 10em;
+    padding-bottom: 1em;
+}

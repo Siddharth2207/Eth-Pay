@@ -1,0 +1,65 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+
+.header-text {
+  font-weight: bold;
+  font-family: "Poppins";
+  font-size: 1.2em;
+  padding: 1em;
+
+  span {
+    color: #007af3;
+  }
+}
+
+.nav-links {
+  span {
+    font-weight: bold;
+    font-size: 1.2em;
+  }
+}
+
+.container1{
+
+  margin-left: 65em;
+  
+  .wallet-container {
+    
+
+    .wallet-container-col1{
+      background-color: #53575c;
+        color : white ;
+        text-decoration: none ;
+        font-size: 1.2em ; 
+        border-radius: 1em ;
+         display: inline-block;
+        margin: 0;
+        padding-top : 0.2em ;
+        padding-bottom : 0.2em ;
+        padding-left: 0.3em;
+    }
+
+    span{
+      background-color: #383d42;
+      color : white ;
+        text-decoration: none ;
+        font-size: 1em ; 
+        border-radius: 1em ;
+       display: inline-block;
+       margin: 0;
+       padding-left : 0.5em ;
+       padding-right : 0.5em ; 
+       
+    }    
+  }
+}
+.button-style{
+  background-color: #007af3;
+    color : white ;
+    text-decoration: none ;
+    font-size: 1em ; 
+    border-radius: 5em ;
+    font-weight: bold; 
+   display: inline-block;
+   
+} 

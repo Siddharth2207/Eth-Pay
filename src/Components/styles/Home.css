@@ -1,0 +1,69 @@
+.section1 {
+  text-align: center;
+}
+
+.section1 .section1-row-col1 {
+  margin-top: 6em;
+  padding-top: 6em;
+}
+
+.section1 .section1-row-col1 h1 {
+  font-weight: bold;
+}
+
+.section1 .section1-row-col1 span {
+  color: #007af3;
+}
+
+.section1 .section1-row-col2 {
+  padding-top: 5em;
+}
+
+.section2 .section2-row-col2 {
+  margin-top: 5em;
+  padding-top: 5em;
+}
+
+.section2 .section2-row-col2 p {
+  font-size: 1.5em;
+  line-height: 0.3em;
+}
+
+.section2 .section2-row-col2 span {
+  color: #007af3;
+}
+
+.section3 .section3-row-col1 {
+  margin-top: 3em;
+  padding-top: 3em;
+}
+
+.section3 .section3-row-col1 ul {
+  text-decoration: none;
+}
+
+.section3 .section3-row-col1 span {
+  color: #007af3;
+}
+
+.section4 {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.section4 .button-style {
+  background-color: #007af3;
+  color: white;
+  text-decoration: none;
+  padding: 0.6em 1.3em;
+  font-size: 1.4em;
+  border-radius: 5em;
+  font-weight: bold;
+  display: inline-block;
+  margin-left: 1.5em;
+  margin-top: 5em;
+  margin-bottom: 5em;
+  width: 100%;
+}
+/*# sourceMappingURL=Home.css.map */
